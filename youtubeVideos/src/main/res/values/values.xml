@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="drop_shadow">#66000000</color>
+    <color name="item_selected">#90FFFFFF</color>
+    <color name="menu_icons">#757575</color>
+    <color name="menu_text">#222222</color>
+    <color name="red">#F44336</color>
+    <dimen name="_8dp">8dp</dimen>
+    <dimen name="menu_dialog_container_margin">8dp</dimen>
+    <dimen name="menu_item_padding">12dp</dimen>
+    <dimen name="menu_item_text_size">16sp</dimen>
+    <string name="app_name">AndroidYouTubePlayer</string>
+    <string name="full_screen_button">Full screen button</string>
+    <string name="live">LIVE</string>
+    <string name="null_time">0:00</string>
+    <string name="open_video_in_youtube">Open video in YouTube</string>
+    <string name="play_button">Play button</string>
+</resources>
